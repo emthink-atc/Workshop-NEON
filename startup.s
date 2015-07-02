@@ -160,8 +160,8 @@ Finished
 ; Enables Full Access i.e. in both priv and non priv modes
 ;==================================================================
  
-	; PRACTICAL 9.1.1
-	; -------------
+        ; PRACTICAL 9.1.1
+        ; -------------
         ; We have to enable the NEON co-processors CP10 and CP11
         ; before NEON instructions can be executed
         ;
@@ -180,7 +180,7 @@ Finished
 ;=================================================================
 
         ; PRACTICAL 9.1.1
-	; -------------
+        ; -------------
         ; Once the co-processors for NEON have been enabled, 
         ; NEON must be explicitly enabled in the Floating-point 
         ; exception Register, FPEXC
